@@ -1,0 +1,4 @@
+include ':app', ':ros_telecommunication_module', ':rosjava_audio_module'
+
+project(':ros_telecommunication_module').projectDir = new File('Resources/ros_telecommunication/ros_telecommunication_module')
+project(':rosjava_audio_module').projectDir = new File('Resources/ros_telecommunication/Resources/rosjava_audio/rosjava_audio_module/')
