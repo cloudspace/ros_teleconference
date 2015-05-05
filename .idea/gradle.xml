@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Resources/ros_telecommunication/Resources/rosjava_audio/rosjava_audio_module" />
+            <option value="$PROJECT_DIR$/Resources/ros_telecommunication/Resources/rosjava_video/rosjava_video_module" />
             <option value="$PROJECT_DIR$/Resources/ros_telecommunication/ros_telecommunication_module" />
             <option value="$PROJECT_DIR$/app" />
           </set>

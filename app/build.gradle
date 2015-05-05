@@ -4,9 +4,14 @@ android {
     compileSdkVersion 22
     buildToolsVersion "22.0.0"
 
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+
     defaultConfig {
         applicationId "com.cloudspace.rosteleconference"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
@@ -24,4 +29,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:22.0.0'
     compile project(':ros_telecommunication_module')
     compile project(':rosjava_audio_module')
+    compile project(':rosjava_video_module')
 }

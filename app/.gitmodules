@@ -1,4 +1,0 @@
-[submodule "Resources/ros_telecommunication"]
-	path = Resources/ros_telecommunication
-	url = git@github.com:cloudspace/ros_telecommunication_module.git
-

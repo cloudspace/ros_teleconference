@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resources/ros_telecommunication/ros_telecommunication_module/ros_telecommunication_module.iml" filepath="$PROJECT_DIR$/Resources/ros_telecommunication/ros_telecommunication_module/ros_telecommunication_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/Resources/ros_telecommunication/Resources/rosjava_audio/rosjava_audio_module/rosjava_audio_module.iml" filepath="$PROJECT_DIR$/Resources/ros_telecommunication/Resources/rosjava_audio/rosjava_audio_module/rosjava_audio_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resources/ros_telecommunication/Resources/rosjava_video/rosjava_video_module/rosjava_video_module.iml" filepath="$PROJECT_DIR$/Resources/ros_telecommunication/Resources/rosjava_video/rosjava_video_module/rosjava_video_module.iml" />
     </modules>
   </component>
 </project>
